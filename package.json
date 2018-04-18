@@ -1,0 +1,17 @@
+{
+  "name": "db_learning",
+  "version": "1.0.0",
+  "description": "learning mongodb",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darrell Pawson",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.15"
+  }
+}
