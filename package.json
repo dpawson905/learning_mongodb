@@ -16,7 +16,7 @@
   "author": "Darrell Pawson",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.0.15"
+    "mongoose": "^5.13.20"
   },
   "devDependencies": {
     "mocha": "^5.1.1",
